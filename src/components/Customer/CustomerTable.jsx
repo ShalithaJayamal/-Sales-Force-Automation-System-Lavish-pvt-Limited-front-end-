@@ -3,8 +3,9 @@ import  { Link,Route,Redirect}  from 'react-router-dom';
 import { CSVLink } from 'react-csv';
 import Axios from 'axios';
 import Add from "components/Customer/Add";
-import Delete from "components/Customer/Delete";
 import Update from "components/Customer/Update";
+import Delete from "components/Customer/Delete";
+
 
 //material ui
 import InputAdornment from "@material-ui/core/InputAdornment";
