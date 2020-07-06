@@ -8,8 +8,9 @@ import Typography from '@material-ui/core/Typography';
 import Rating from '@material-ui/lab/Rating';
 import Box from '@material-ui/core/Box';
 import ReactFusioncharts from "react-fusioncharts";
-import { Card,CardContent,CardActions } from '@material-ui/core';
 import  salesrepMonthlySales from "variables/salesrepSales.jsx";
+import { Card,CardContent,CardActions } from '@material-ui/core';
+
 
 const useStyles = theme =>({
 
