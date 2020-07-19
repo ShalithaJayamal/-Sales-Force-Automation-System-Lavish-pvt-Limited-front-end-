@@ -1,6 +1,6 @@
 import React, {Component} from "react";
-import avatar from "assets/img/faces/lavish.jpg";
 import Footer from "components/Footer/Footer";
+import avatar from "assets/img/faces/lavish.jpg";
 import axios from "axios"
 import Button from '@material-ui/core/Button';
 import { withStyles} from '@material-ui/core/styles';
